@@ -1,0 +1,5 @@
+127.0.0.1 - - [29/Aug/2022:17:43:57 -0500] "GET / HTTP/1.1" 200 615 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+127.0.0.1 - - [29/Aug/2022:17:43:57 -0500] "GET /favicon.ico HTTP/1.1" 404 555 "http://localhost/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+127.0.0.1 - - [29/Aug/2022:17:50:16 -0500] "GET /kj%7D HTTP/1.1" 404 555 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36"
+192.168.3.57 - - [29/Aug/2022:19:13:35 -0500] "GET / HTTP/1.1" 200 615 "-" "Avast Antivirus"
+192.168.3.57 - - [29/Aug/2022:19:13:47 -0500] "GET /HNAP1/ HTTP/1.1" 404 153 "-" "Avast Antivirus"
